@@ -1,0 +1,19 @@
+
+
+Nombre : norma
+Apellidos: ramirez cardona
+Genero: 
+Edad: 23
+Matricula: 161103063
+Grupo: ab
+Carrera: informatica
+Materias reprobadas: 2
+
+Nombre : Dulce Montserrat Ortega Martinez
+Apellidos: ortega martinez
+Genero: 
+Edad: 22
+Matricula: 161103042
+Grupo: sexto
+Carrera: informatica
+Materias reprobadas: 15

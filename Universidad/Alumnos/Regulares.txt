@@ -1,0 +1,22 @@
+
+
+Nombre : diana
+Apellidos: huerta roldan
+Edad: 22
+Matricula: 
+Grupo: bc
+Carrera: informatica
+
+Nombre : norma
+Apellidos: ramirez cardona
+Edad: 22
+Matricula: 161103063
+Grupo: ab
+Carrera: informatica
+
+Nombre : norma
+Apellidos: ramirez cardona
+Edad: 23
+Matricula: 161103063
+Grupo: ab
+Carrera: informatica

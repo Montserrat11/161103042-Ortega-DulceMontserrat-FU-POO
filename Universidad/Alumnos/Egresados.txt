@@ -1,0 +1,9 @@
+
+
+Nombre : norma
+Apellidos: ramirez cardona
+Genero: 
+Edad: 22
+Matricula: 
+Grupo: ab
+Carrera: informatica
